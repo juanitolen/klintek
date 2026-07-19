@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: http://localhost:3000
-Sitemap: http://localhost:3000/sitemap.xml
+Host: https://juanitolen.github.io/klintek
+Sitemap: https://juanitolen.github.io/klintek/sitemap.xml
